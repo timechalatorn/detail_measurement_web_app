@@ -3,4 +3,8 @@ numpy==2.0.1
 opencv_contrib_python==4.6.0.66
 opencv_python==4.6.0.66
 opencv_python_headless==4.10.0.82
+Pillow==10.4.0
+Requests==2.32.3
+streamlit==1.37.1
+streamlit_drawable_canvas==0.9.3
 uvicorn==0.30.5
